@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817746781237",
+    "project_id": "yadgir-food-zone",
+    "storage_bucket": "yadgir-food-zone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817746781237:android:f76df65af964cc3ffa3d7c",
+        "android_client_info": {
+          "package_name": "com.yadgirfoodzone.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWncIj5l-qNldsLAn7bm96Hg0r4gyl0cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817746781237:android:8c1d485d56597700fa3d7c",
+        "android_client_info": {
+          "package_name": "com.yadgirfoodzone.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWncIj5l-qNldsLAn7bm96Hg0r4gyl0cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
